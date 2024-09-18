@@ -15,7 +15,7 @@ import tarfile
 OPENBLAS_V = 'v0.3.9'
 OPENBLAS_LONG = 'v0.3.9'
 BASE_LOC = ''
-ANACONDA = 'https://anaconda.org/multibuild-wheels-staging/openblas-libs'
+ANACONDA = 'https://anaconda.org/multibuild-wheels-staging/scipy-openblas32'
 ARCHITECTURES = ['', 'windows', 'darwin', 'aarch64', 'x86', 'ppc64le', 's390x']
 sha256_vals = {
 'openblas64_-v0.3.9-macosx_10_9_x86_64-gf_1becaaa.tar.gz':
